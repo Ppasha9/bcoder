@@ -1,5 +1,6 @@
 # bcoder
-Solving the start problem for &lt;bcoder> hackathon
+Solving the start problem for &lt;bcoder> hackathon. Project is on C++.
+
 Алгоритм.
 Начальные условия:
 вектор друзей, вектор друзей друзей, вектор результата - пустые.
